@@ -1,0 +1,17 @@
+{
+  "name": "e-commerce-mock-api-b1",
+  "version": "1.0.0",
+  "description": "E-commerce mock API for students to practice working with RESTful APIs.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
